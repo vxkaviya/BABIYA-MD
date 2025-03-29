@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: node babiya.js
+  web: node app.js
