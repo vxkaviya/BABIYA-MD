@@ -35,7 +35,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Sathsara33/BABIYA-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FSathsara33%2FBABIYA-MD&template=https%3A%2F%2Fgithub.com%2FSathsara33%2FBABIYA-MD.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 
 #### DEPLOY ON RAILWAY
