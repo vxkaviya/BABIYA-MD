@@ -24,9 +24,6 @@
 
 <a href="https://babiya-md-pair.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-## How To Deploy On Github.
-* [![TELEGRAM](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=telegram&logoColor=green)](https://t.me/ai_bot_md/213)
-
 ## DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
