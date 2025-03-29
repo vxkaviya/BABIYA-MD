@@ -4,7 +4,7 @@
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+WORKING%E2%84%A2%EF%B8%8F" alt="Typing SVG" /></a>   
             
 <p align="center"> 
-<up A simple WhatsApp User Bot Coded BY CYBER DEXTER</u>
+<up A simple WhatsApp User Bot Coded BY BABIYA</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/fkm9ec.jpg"/>       
@@ -14,7 +14,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/TcronebHackx-Md/AI-FAST-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Sathsara33/BABIYA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
@@ -37,19 +37,8 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Kgtech-cmr/KERM_MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/Sathsara33/BABIYA-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb'/></a>
-
-2. Get [Koyeb api key](https://app.koyeb.com/account/api)
-
-4. Now Deploy
-    <br>
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/TcronebHackx-Md/THE-FAST-MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLER]=.&env[BOT_INFO]=ᴀɪ-ʙᴏᴛ-ᴍᴅ;ᴛᴄʀᴏɴᴇʙ%20ʜᴀᴄᴋx;https://files.catbox.moe/74pca4.jpg&env[SUDO]=263716394979&env[STICKER_DATA]=ᴛᴄʀᴏɴᴇʙ&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
 #### DEPLOY ON RAILWAY
 
