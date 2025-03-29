@@ -1,11 +1,11 @@
 
 {
-  "name": "MASTER-MIND-V3",
+  "name": "BABIYA-MD-V1",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/gssbotwa/Ethix-MD",
+  "repository": "https://github.com/Sathsara33/BABIYA-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
