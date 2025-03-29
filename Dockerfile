@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # Start the bot
-CMD ["node", "app.js"]
+CMD ["node", "babiya.js"]
